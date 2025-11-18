@@ -148,7 +148,7 @@ A GitHub mail will be sent to your email to confirm be part of the repository.
 The following line will copy the content of the GitHub repository to your WSL.
 
 ```shell
-git clone git@github.com:maureyese/dockingPHA.git
+git clone git@github.com:maureyese/dockingDPA.git
 ```
 
 **Step 17.** Git status.
