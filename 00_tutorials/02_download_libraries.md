@@ -179,7 +179,7 @@ Remove the Autodock Vina folder:
 cd ../../../
 ```
 
-You should now be on DockingPHA folder. Now remove the "Autodock-Vina" folder.
+You should now be on DockingDPA folder. Now remove the "Autodock-Vina" folder.
 
 THIS STEP IS VERY IMPORTANT BECAUSE WE DON'T WANT TO UPLOAD THE FOLDER TO GITHUB.
 
@@ -236,7 +236,7 @@ sudo apt install openbabel
 ```
 
 ```shell
-conda install numpy pandas biopython MDAnalysis rdkit openbabel
+conda install requests numpy pandas biopython MDAnalysis rdkit openbabel
 ```
 
 ### (Optional) Flexible docking

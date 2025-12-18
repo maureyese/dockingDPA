@@ -18,7 +18,7 @@ sudo apt upgrade
 **Step 2**. Access to folder of GitHub Repository
 
 ```shell
-cd dockingPHA/
+cd dockingDPA/
 ```
 
 Open Visual Studio Code:
@@ -73,7 +73,7 @@ To get GitHub repository up to date:
 1. Write a short message on the text box (For example: "docking script added")
 2. Click on "Commit" button.
 3. A new button will appear: "Sync Changes". Click on it.
-4. Now go to GitHub on your browser: https://github.com/maureyese/dockingPHA.git
+4. Now go to GitHub on your browser: https://github.com/maureyese/dockingDPA.git
 5. Select your branch.
 6. Now you will see your files up to date.
 
