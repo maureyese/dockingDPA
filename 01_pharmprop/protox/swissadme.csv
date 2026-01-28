@@ -1,0 +1,7 @@
+﻿Molecule,CLogP,ESOL Class,Ali Class,Silicos-IT class,GI absorption,BBB permeant,Pgp substrate,CYP1A2 inhibitor,CYP2C19 inhibitor,CYP2C9 inhibitor,CYP2D6 inhibitor,CYP3A4 inhibitor,log Kp (cm/s),Lipinski #violations,Ghose #violations,Veber #violations,Egan #violations,Muegge #violations,Bioavailability Score,PAINS #alerts,Brenk #alerts,Leadlikeness #violations,Synthetic Accessibility
+DPA,-6.38,Very soluble,Very soluble,Soluble,High,No,Yes,No,No,No,No,No,-7.27,0,3,0,0,0,0.55,0,0,1,1.51
+Octocrylene,5.45,Poorly soluble,Poorly soluble,Poorly soluble,High,Yes,Yes,Yes,Yes,Yes,Yes,Yes,-3.44,1,1,0,0,1,0.55,0,2,3,3.98
+Meradimate,3.82,Moderately soluble,Poorly soluble,Soluble,High,Yes,No,No,Yes,Yes,No,No,-4.05,0,0,0,0,1,0.55,0,1,1,3.23
+Oxybenzone,2.75,Soluble,Moderately soluble,Moderately soluble,High,Yes,No,Yes,Yes,Yes,No,No,-5,0,0,0,0,0,0.55,0,0,2,1.8
+Avobenzone,4.07,Moderately soluble,Moderately soluble,Poorly soluble,High,Yes,No,Yes,Yes,No,Yes,Yes,-4.81,0,0,0,0,0,0.55,0,1,1,2
+Homosalate,3.57,Moderately soluble,Moderately soluble,Soluble,High,Yes,No,No,Yes,Yes,No,No,-4.31,0,0,0,0,1,0.55,0,0,1,2.97
